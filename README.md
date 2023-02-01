@@ -1,5 +1,5 @@
 # cpfgen
-Scrape to cpf generator website.
+Scrape to cpf generator website and copy it to clipboard.
 
 This project uses as base [this page](https://www.4devs.com.br/gerador_de_cpf). It just turns it easier to get Brazilian taxpayer registry (CPF). Feel free to modify the project!
 
