@@ -16,3 +16,6 @@ cpfgen() {
     python app.py
 }
 ```
+
+### Preview
+[Screencast from 2023-03-09 20-37-04.webm](https://user-images.githubusercontent.com/30248076/224185424-d2bf97a4-3ec5-4088-90af-c3963aa3fee5.webm)
