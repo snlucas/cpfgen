@@ -9,7 +9,7 @@ Run pip install requirements.txt to install dependencies.
 ### Alias
 A greate way to use this is setting a function in an alias file, so you can call it from your terminal. You can do it creating a file called ~/.bash_aliases and in it you can add the following.
 
-```
+```python
 alias cpfgen='cpfgen'
 cpfgen() {
     cd path-to-file
